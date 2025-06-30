@@ -1,5 +1,5 @@
 # LG_Aimers_5
-LG Aimers 5기 본선 최종 6위
+LG Aimers 5기 데이터분석 해커톤 본선 최종 6위
 
 ![목차](목차.jpg)  
 ![문제 1](문제.jpg)  
